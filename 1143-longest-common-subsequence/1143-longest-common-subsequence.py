@@ -1,5 +1,8 @@
 class Solution:
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:
+
+
+        # memoization
         m = len(text1)
         n = len(text2)
         memo = {}
@@ -15,6 +18,20 @@ class Solution:
 
             return memo[(i,j)]
         return rec(0,0)
+
+
+        # # tabulation
+        # m = len(text1)
+        # n = len(text2)
+        # dp = [[0]*n+1 for _ in range(m)]
+        
+        # for i in range j
+
+
+
+        
+        
+        # # normal recursion
         
         # m = len(text1)
         # n = len(text2)
