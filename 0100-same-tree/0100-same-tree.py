@@ -10,10 +10,10 @@ class Solution:
         def same(p, q):
             if not p and not q:
                 return True
-            if p and not q:
-                return False
-            if q and not p:
-                return False
+            # if p and not q:
+            #     return False
+            # if q and not p:
+            #     return False
             
             if p.val == q.val:
                 return same(p.left, q.left) and same(p.right, q.right)
