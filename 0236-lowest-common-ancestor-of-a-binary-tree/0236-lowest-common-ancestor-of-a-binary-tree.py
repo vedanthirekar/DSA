@@ -29,17 +29,17 @@ class Solution:
         return lca(root)
 
 
-        def dfs(node):
-            if not node:
-                return None
-            if node is p or node is q:
-                return node
+        # def dfs(node):
+        #     if not node:
+        #         return None
+        #     if node is p or node is q:
+        #         return node
 
-            left = dfs(node.left)
-            right = dfs(node.right)
+        #     left = dfs(node.left)
+        #     right = dfs(node.right)
 
-            if left and right:
-                return node
-            return left or right
+        #     if left and right:
+        #         return node
+        #     return left or right
 
-        return dfs(root)
+        # return dfs(root)
