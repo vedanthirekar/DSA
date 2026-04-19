@@ -18,7 +18,8 @@ class Solution:
                 return root
             left = lca(root.left)
             right = lca(root.right)
-            elif left and right
+
+            if left and right:
                 return root
             if left:
                 return left 
