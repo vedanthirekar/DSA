@@ -11,19 +11,21 @@ class Solution:
         base condition will be if we find p or q return it
         """
 
-        # def lca(root):
-        #     if not root:
-        #         return None
-        #     if root == p or root == q:
-        #         return root
-        #     elif lca(root.right) and lca(root.left):
-        #         return root
-        #     elif lca(root.right):
-        #         return root.right
-        #     elif lca(root.left):
-        #         return root.left
+        def lca(root):
+            if not root:
+                return None
+            elif root == p or root == q:
+                return root
+            left = lca(root.left)
+            right = lca(root.right)
+            elif left and right
+                return root
+            if left:
+                return left 
+            else:
+                return right
             
-        # return lca(root)
+        return lca(root)
 
 
         def dfs(node):
