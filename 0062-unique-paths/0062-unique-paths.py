@@ -1,18 +1,12 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        # count = [0]
         memo = {}
-        def rec (i,j):
+        def unique(i,j):
             if (i,j) in memo:
                 return memo[(i,j)]
-
-            if (i==m-1) or (j==n-1):
-                return 1
-            
-            
-                # count[0] += 1
-            memo[(i,j)] =   rec(i+1,j) + rec(i, j+1)
+            if i == m-1 or j ==n-1:
+                memo[(i,j)] = 1
+            else:
+                memo[(i,j)] =  unique(i,j+1) + unique(i+1,j)
             return memo[(i,j)]
-
-
-        return rec(0,0)
+        return unique(0,0)
