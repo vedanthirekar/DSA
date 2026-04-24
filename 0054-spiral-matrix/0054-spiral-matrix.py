@@ -1,5 +1,7 @@
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
+        """it is important to add the checks inside the while loop to avoid duplication.
+        """
         
         r = len(matrix[0])
         l = -1
