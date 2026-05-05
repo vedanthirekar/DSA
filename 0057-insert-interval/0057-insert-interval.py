@@ -11,4 +11,4 @@ class Solution:
                 newInterval[0] = min(newInterval[0],i[0])
                 newInterval[1] = max(newInterval[1],i[1])
 
-        return new+[newInterval]
+        return new+[newInterval] #if the loop finieshes without the 2nd condition
