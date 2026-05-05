@@ -10,7 +10,10 @@ class Solution:
         Other solution is to somehow keep the pointer at n-k th position and then
         attach the next part to start. 
         we can try to do that with some method like maintining max x distacne between curr(which will 
-        be at the end at the end of iteration) and some pivot variable"""
+        be at the end at the end of iteration) and some pivot variable
+        
+        Other approach which i discovered later was to make a circular list by connecting tail to   
+        head and then goin n-k+1 steps from head and then cut it off from there"""
 
         curr = head
         pivot = head
