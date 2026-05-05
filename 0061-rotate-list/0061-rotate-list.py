@@ -23,10 +23,8 @@ class Solution:
         
         if not head or k%n ==0:
             return head
-            
-        k = k%n
 
-        
+        k = k%n
 
         while curr.next:
             curr = curr.next
