@@ -79,4 +79,20 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vedanthirekar/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/vedanthirekar/DSA/tree/main/0143-reorder-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/vedanthirekar/DSA/tree/main/0143-reorder-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/vedanthirekar/DSA/tree/main/0143-reorder-list/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/vedanthirekar/DSA/tree/main/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->
