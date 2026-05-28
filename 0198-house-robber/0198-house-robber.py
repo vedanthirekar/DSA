@@ -5,17 +5,19 @@ class Solution:
         """
 
         n = len(nums)
-        dp = [0]*n
+        # dp = [0]*n
         if len(nums)<2:
             return nums[0]
         
-        dp[0] = nums[0]
-        dp[1] = max(nums[1],nums[0])
+        prev = nums[0]
+        curr = max(nums[1],nums[0])
 
         for i in range(2,n):
-            dp[i] = max(dp[i-1],dp[i-2]+nums[i])
+            temp = curr
+            curr = max(prev+nums[i],curr)
+            prev = temp
 
-        return dp[n-1]
+        return curr
 
 
 
