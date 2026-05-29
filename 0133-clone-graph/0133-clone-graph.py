@@ -11,21 +11,25 @@ class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
         if not node:
             return None
+        stk = [node]
+        visited = set()
+        oldtonew = {}
+        while stk:
+            og_node = stk.pop()
+            if og_node not in visited:
+                visited.add(og_node)
+                new_node = Node(og_node.val)
+                oldtonew[og_node] = new_node
 
-        # visited = set()
-        hmap = {}
-        def dfs(node):
-            if node in hmap:
-                return hmap[node]
+            for nei in og_node.neighbors:
+                if nei in visited:
+                    oldtonew[og_node].neighbors.append(oldtonew[nei])
+                    continue
+                stk.append(nei)
+                visited.add(nei)
+                new_nei = Node(nei.val)
+                oldtonew[nei] = new_nei
+                oldtonew[og_node].neighbors.append(new_nei)
 
-            # visited.add(node)
-            clone_node = Node(val = node.val)
-            hmap[node] = clone_node
+        return oldtonew[node]
 
-            for nei in node.neighbors:
-                clone_nei = dfs(nei)
-                clone_node.neighbors.append(clone_nei)
-            
-            return clone_node
-            
-        return dfs(node)
