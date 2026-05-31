@@ -7,7 +7,8 @@ class Solution:
         maxx = 0
         for r in range(n):
             hashmap[s[r]] += 1
-            max_f = max(hashmap.values())
+            # max_f = max(hashmap.values())
+            max_f = max(max_f, hashmap[s[r]]) # instead use this to make it more efficient
             while r-l+1-max_f>k:
                 hashmap[s[l]] -= 1
                 l+=1
