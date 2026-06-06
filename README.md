@@ -53,6 +53,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/vedanthirekar/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vedanthirekar/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/vedanthirekar/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vedanthirekar/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +90,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/vedanthirekar/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vedanthirekar/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vedanthirekar/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +152,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanthirekar/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vedanthirekar/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,4 +161,12 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/vedanthirekar/DSA/tree/main/0046-permutations/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vedanthirekar/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vedanthirekar/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
