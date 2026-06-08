@@ -16,9 +16,10 @@ class Solution:
 
 
             for i in range(2,s_n):
-                temp = max(curr, prev+s_nums[i])
-                prev = curr
-                curr = temp
+                temp = curr
+                curr = max(curr, prev+s_nums[i])
+                prev = temp
+                
 
             return curr 
 
