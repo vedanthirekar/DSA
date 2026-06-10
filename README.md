@@ -20,6 +20,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0238-product-of-array-except-self](https://github.com/vedanthirekar/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vedanthirekar/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0494-target-sum](https://github.com/vedanthirekar/DSA/tree/main/0494-target-sum/) | Medium |
+| [0695-max-area-of-island](https://github.com/vedanthirekar/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/vedanthirekar/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vedanthirekar/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1929-concatenation-of-array](https://github.com/vedanthirekar/DSA/tree/main/1929-concatenation-of-array/) | Easy |
@@ -38,16 +39,19 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0211-design-add-and-search-words-data-structure](https://github.com/vedanthirekar/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vedanthirekar/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/vedanthirekar/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0695-max-area-of-island](https://github.com/vedanthirekar/DSA/tree/main/0695-max-area-of-island/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/vedanthirekar/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/vedanthirekar/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vedanthirekar/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0695-max-area-of-island](https://github.com/vedanthirekar/DSA/tree/main/0695-max-area-of-island/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/vedanthirekar/DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/vedanthirekar/DSA/tree/main/0695-max-area-of-island/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +59,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0074-search-a-2d-matrix](https://github.com/vedanthirekar/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/vedanthirekar/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vedanthirekar/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0695-max-area-of-island](https://github.com/vedanthirekar/DSA/tree/main/0695-max-area-of-island/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
