@@ -20,6 +20,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0238-product-of-array-except-self](https://github.com/vedanthirekar/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vedanthirekar/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0494-target-sum](https://github.com/vedanthirekar/DSA/tree/main/0494-target-sum/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/vedanthirekar/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vedanthirekar/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1929-concatenation-of-array](https://github.com/vedanthirekar/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 ## Dynamic Programming
@@ -112,6 +113,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0033-search-in-rotated-sorted-array](https://github.com/vedanthirekar/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/vedanthirekar/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedanthirekar/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/vedanthirekar/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
