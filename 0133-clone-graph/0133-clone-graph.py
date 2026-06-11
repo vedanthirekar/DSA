@@ -9,27 +9,24 @@ class Node:
 from typing import Optional
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
-        if not node:
-            return None
-        stk = [node]
-        visited = set()
+        
         oldtonew = {}
-        while stk:
-            og_node = stk.pop()
-            if og_node not in visited:
-                visited.add(og_node)
-                new_node = Node(og_node.val)
-                oldtonew[og_node] = new_node
+        def dfs(node):
+            if not node:
+                return
 
-            for nei in og_node.neighbors:
-                if nei in visited:
-                    oldtonew[og_node].neighbors.append(oldtonew[nei])
-                    continue
-                stk.append(nei)
-                visited.add(nei)
-                new_nei = Node(nei.val)
-                oldtonew[nei] = new_nei
-                oldtonew[og_node].neighbors.append(new_nei)
+            if node in oldtonew:
+                return oldtonew[node]
+            
+            new = Node(val = node.val)
+            oldtonew[node] = new
+            for nei in node.neighbors:
+                neighbor = dfs(nei)
+                if neighbor not in new.neighbors:
+                    new.neighbors.append(neighbor)
+            
+            return new
 
-        return oldtonew[node]
-
+        res = dfs(node)
+        # print(node)
+        return res
