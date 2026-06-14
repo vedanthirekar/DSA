@@ -13,6 +13,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0055-jump-game](https://github.com/vedanthirekar/DSA/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/vedanthirekar/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/vedanthirekar/DSA/tree/main/0130-surrounded-regions/) | Medium |
+| [0139-word-break](https://github.com/vedanthirekar/DSA/tree/main/0139-word-break/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedanthirekar/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/vedanthirekar/DSA/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/vedanthirekar/DSA/tree/main/0200-number-of-islands/) | Medium |
@@ -29,6 +30,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/vedanthirekar/DSA/tree/main/0055-jump-game/) | Medium |
+| [0139-word-break](https://github.com/vedanthirekar/DSA/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/vedanthirekar/DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/vedanthirekar/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0494-target-sum](https://github.com/vedanthirekar/DSA/tree/main/0494-target-sum/) | Medium |
@@ -78,6 +80,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/vedanthirekar/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0139-word-break](https://github.com/vedanthirekar/DSA/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/vedanthirekar/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vedanthirekar/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/vedanthirekar/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -104,6 +107,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vedanthirekar/DSA/tree/main/0001-two-sum/) | Easy |
 | [0133-clone-graph](https://github.com/vedanthirekar/DSA/tree/main/0133-clone-graph/) | Medium |
+| [0139-word-break](https://github.com/vedanthirekar/DSA/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/vedanthirekar/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/vedanthirekar/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Design
@@ -115,6 +119,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/vedanthirekar/DSA/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/vedanthirekar/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vedanthirekar/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Binary Search
@@ -204,4 +209,8 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/vedanthirekar/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/vedanthirekar/DSA/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
