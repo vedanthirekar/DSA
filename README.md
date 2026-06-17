@@ -40,6 +40,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/vedanthirekar/DSA/tree/main/0100-same-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/vedanthirekar/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/vedanthirekar/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/vedanthirekar/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -52,6 +53,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/vedanthirekar/DSA/tree/main/0100-same-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/vedanthirekar/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/vedanthirekar/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/vedanthirekar/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -81,6 +83,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/vedanthirekar/DSA/tree/main/0100-same-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/vedanthirekar/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vedanthirekar/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/vedanthirekar/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -98,6 +101,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/vedanthirekar/DSA/tree/main/0100-same-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/vedanthirekar/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vedanthirekar/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/vedanthirekar/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
