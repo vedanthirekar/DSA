@@ -22,6 +22,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0213-house-robber-ii](https://github.com/vedanthirekar/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanthirekar/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/vedanthirekar/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0322-coin-change](https://github.com/vedanthirekar/DSA/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/vedanthirekar/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vedanthirekar/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0494-target-sum](https://github.com/vedanthirekar/DSA/tree/main/0494-target-sum/) | Medium |
@@ -37,6 +38,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0139-word-break](https://github.com/vedanthirekar/DSA/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/vedanthirekar/DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/vedanthirekar/DSA/tree/main/0213-house-robber-ii/) | Medium |
+| [0322-coin-change](https://github.com/vedanthirekar/DSA/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/vedanthirekar/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/vedanthirekar/DSA/tree/main/0494-target-sum/) | Medium |
 ## Depth-First Search
@@ -61,6 +63,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0133-clone-graph](https://github.com/vedanthirekar/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/vedanthirekar/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/vedanthirekar/DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0322-coin-change](https://github.com/vedanthirekar/DSA/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vedanthirekar/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/vedanthirekar/DSA/tree/main/0695-max-area-of-island/) | Medium |
 ## Union-Find
