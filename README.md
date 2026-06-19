@@ -104,6 +104,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0208-implement-trie-prefix-tree](https://github.com/vedanthirekar/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vedanthirekar/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/vedanthirekar/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/vedanthirekar/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/vedanthirekar/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -135,6 +136,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0139-word-break](https://github.com/vedanthirekar/DSA/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/vedanthirekar/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/vedanthirekar/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/vedanthirekar/DSA/tree/main/0567-permutation-in-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0125-valid-palindrome](https://github.com/vedanthirekar/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/vedanthirekar/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedanthirekar/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0567-permutation-in-string](https://github.com/vedanthirekar/DSA/tree/main/0567-permutation-in-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +194,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/vedanthirekar/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/vedanthirekar/DSA/tree/main/0567-permutation-in-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
