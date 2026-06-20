@@ -186,6 +186,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [1068-product-sales-analysis-i](https://github.com/vedanthirekar/DSA/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/vedanthirekar/DSA/tree/main/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vedanthirekar/DSA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vedanthirekar/DSA/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/vedanthirekar/DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
