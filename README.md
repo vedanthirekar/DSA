@@ -135,6 +135,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0036-valid-sudoku](https://github.com/vedanthirekar/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0133-clone-graph](https://github.com/vedanthirekar/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/vedanthirekar/DSA/tree/main/0139-word-break/) | Medium |
+| [0202-happy-number](https://github.com/vedanthirekar/DSA/tree/main/0202-happy-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/vedanthirekar/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/vedanthirekar/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/vedanthirekar/DSA/tree/main/0567-permutation-in-string/) | Medium |
@@ -169,6 +170,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0125-valid-palindrome](https://github.com/vedanthirekar/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/vedanthirekar/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedanthirekar/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/vedanthirekar/DSA/tree/main/0202-happy-number/) | Easy |
 | [0567-permutation-in-string](https://github.com/vedanthirekar/DSA/tree/main/0567-permutation-in-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -201,6 +203,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/vedanthirekar/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0202-happy-number](https://github.com/vedanthirekar/DSA/tree/main/0202-happy-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/vedanthirekar/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
