@@ -11,11 +11,20 @@ class Solution:
             return None
 
         while len(lists)>1:
-            list1 = lists.pop()
-            list2 = lists.pop()
-            new_list = self.mergetwolists(list1,list2)
-            lists.append(new_list)
+            # list1 = lists.pop()
+            # list2 = lists.pop()
+            # new_list = self.mergetwolists(list1,list2)
+            # lists.append(new_list)
 
+            #can be replaced with divide and conquer 
+
+            merged = []
+            for i in range(0, len(lists), 2):
+                list1 = lists[i]
+                list2 = lists[i+1] if i + 1 < len(lists) else None
+                new_list = self.mergetwolists(list1,list2)
+                merged.append(new_list)
+            lists = merged
         return lists[-1]
 
     
