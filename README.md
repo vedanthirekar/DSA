@@ -99,6 +99,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/vedanthirekar/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/vedanthirekar/DSA/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/vedanthirekar/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/vedanthirekar/DSA/tree/main/0139-word-break/) | Medium |
@@ -133,6 +134,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vedanthirekar/DSA/tree/main/0001-two-sum/) | Easy |
 | [0036-valid-sudoku](https://github.com/vedanthirekar/DSA/tree/main/0036-valid-sudoku/) | Medium |
+| [0076-minimum-window-substring](https://github.com/vedanthirekar/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0133-clone-graph](https://github.com/vedanthirekar/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/vedanthirekar/DSA/tree/main/0139-word-break/) | Medium |
 | [0202-happy-number](https://github.com/vedanthirekar/DSA/tree/main/0202-happy-number/) | Easy |
@@ -197,6 +199,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/vedanthirekar/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/vedanthirekar/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/vedanthirekar/DSA/tree/main/0567-permutation-in-string/) | Medium |
 ## Math
