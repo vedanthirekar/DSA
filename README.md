@@ -30,6 +30,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0695-max-area-of-island](https://github.com/vedanthirekar/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/vedanthirekar/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vedanthirekar/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1046-last-stone-weight](https://github.com/vedanthirekar/DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1929-concatenation-of-array](https://github.com/vedanthirekar/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -227,6 +228,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanthirekar/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vedanthirekar/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/vedanthirekar/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1046-last-stone-weight](https://github.com/vedanthirekar/DSA/tree/main/1046-last-stone-weight/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
