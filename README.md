@@ -16,6 +16,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0078-subsets](https://github.com/vedanthirekar/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/vedanthirekar/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/vedanthirekar/DSA/tree/main/0130-surrounded-regions/) | Medium |
+| [0136-single-number](https://github.com/vedanthirekar/DSA/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/vedanthirekar/DSA/tree/main/0139-word-break/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedanthirekar/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/vedanthirekar/DSA/tree/main/0198-house-robber/) | Medium |
@@ -262,6 +263,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | ------- | ------- |
 | [0078-subsets](https://github.com/vedanthirekar/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/vedanthirekar/DSA/tree/main/0090-subsets-ii/) | Medium |
+| [0136-single-number](https://github.com/vedanthirekar/DSA/tree/main/0136-single-number/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
