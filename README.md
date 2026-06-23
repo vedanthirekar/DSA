@@ -14,6 +14,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0055-jump-game](https://github.com/vedanthirekar/DSA/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/vedanthirekar/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/vedanthirekar/DSA/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/vedanthirekar/DSA/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/vedanthirekar/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/vedanthirekar/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0136-single-number](https://github.com/vedanthirekar/DSA/tree/main/0136-single-number/) | Easy |
@@ -47,6 +48,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/vedanthirekar/DSA/tree/main/0079-word-search/) | Medium |
 | [0100-same-tree](https://github.com/vedanthirekar/DSA/tree/main/0100-same-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/vedanthirekar/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/vedanthirekar/DSA/tree/main/0133-clone-graph/) | Medium |
@@ -81,6 +83,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0036-valid-sudoku](https://github.com/vedanthirekar/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/vedanthirekar/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/vedanthirekar/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/vedanthirekar/DSA/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/vedanthirekar/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/vedanthirekar/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vedanthirekar/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -102,6 +105,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/vedanthirekar/DSA/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/vedanthirekar/DSA/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/vedanthirekar/DSA/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/vedanthirekar/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/vedanthirekar/DSA/tree/main/0139-word-break/) | Medium |
@@ -240,6 +244,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | ------- | ------- |
 | [0046-permutations](https://github.com/vedanthirekar/DSA/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/vedanthirekar/DSA/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/vedanthirekar/DSA/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/vedanthirekar/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0494-target-sum](https://github.com/vedanthirekar/DSA/tree/main/0494-target-sum/) | Medium |
 ## Binary Search Tree
