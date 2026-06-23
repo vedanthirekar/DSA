@@ -1,40 +1,24 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
-        l = []
-        m = len(board[0])
-        n = len(board)
-        s = set()
-        for j in range(n):
-            for i in range(m):
-                if board[j][i] == word[0]:
-                    l.append((i,j))
+        rows = len(board) 
+        cols = len(board[0])
 
-        
-
-        def dfs(i,j,idx):
-            if idx == len(word):
+        def dfs(r,c,i):
+            if i == len(word):
                 return True
 
-            if (i,j) in s:
-                return False
-            
-            if i>=m or i<0 or j<0 or j>=n:
+            if r<0 or c<0 or r>=rows or c>=cols or board[r][c] != word[i]:
                 return False
 
-            if word[idx] != board[j][i]:
-                return False
-                
-            s.add((i,j))
+            temp = board[r][c]
+            board[r][c] = "-"
+            res = dfs(r+1,c,i+1) or dfs(r,c-1,i+1) or dfs(r,c+1,i+1) or dfs(r-1,c,i+1)
+            board[r][c] = temp
 
-            val = dfs(i+1,j, idx+1) or dfs(i-1,j, idx+1) or dfs(i,j-1,idx+1) or dfs(i,j+1,idx+1)
-            
-            s.remove((i,j))
+            return res
 
-            return val
-
-        for i,j in l:
-            # s.add(i,j)
-            if dfs(i,j,0):
-                return True
-        return False            
-        
+        for r in range(rows):
+            for c in range(cols):
+                if dfs(r,c, 0):
+                    return True
+        return False
