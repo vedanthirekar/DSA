@@ -1,6 +1,6 @@
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:
-        min_cost = [0]
+        # min_cost = [0]
         memo = {}
         n = len(cost)
         def dfs(i):
