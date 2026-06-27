@@ -4,7 +4,7 @@ class Solution:
         ans = []
         res = []
 
-        def dfs(i, ans, curr_sum):
+        def dfs(i, curr_sum):
             if curr_sum == target:
                 res.append(ans[:])
                 return 
@@ -13,8 +13,8 @@ class Solution:
             
             for i in range(i,len(candidates)):
                 ans.append(candidates[i]) 
-                dfs(i,ans, curr_sum+candidates[i])
+                dfs(i, curr_sum+candidates[i])
                 ans.pop()
 
-        dfs(0,[], 0)
+        dfs(0, 0)
         return res
