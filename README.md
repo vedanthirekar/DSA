@@ -9,6 +9,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0001-two-sum](https://github.com/vedanthirekar/DSA/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/vedanthirekar/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/vedanthirekar/DSA/tree/main/0036-valid-sudoku/) | Medium |
+| [0039-combination-sum](https://github.com/vedanthirekar/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/vedanthirekar/DSA/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/vedanthirekar/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/vedanthirekar/DSA/tree/main/0055-jump-game/) | Medium |
@@ -246,6 +247,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/vedanthirekar/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/vedanthirekar/DSA/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/vedanthirekar/DSA/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/vedanthirekar/DSA/tree/main/0079-word-search/) | Medium |
