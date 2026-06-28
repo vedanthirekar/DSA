@@ -146,6 +146,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0036-valid-sudoku](https://github.com/vedanthirekar/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0076-minimum-window-substring](https://github.com/vedanthirekar/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0133-clone-graph](https://github.com/vedanthirekar/DSA/tree/main/0133-clone-graph/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/vedanthirekar/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/vedanthirekar/DSA/tree/main/0139-word-break/) | Medium |
 | [0202-happy-number](https://github.com/vedanthirekar/DSA/tree/main/0202-happy-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/vedanthirekar/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -176,6 +177,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vedanthirekar/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/vedanthirekar/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0138-copy-list-with-random-pointer](https://github.com/vedanthirekar/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0143-reorder-list](https://github.com/vedanthirekar/DSA/tree/main/0143-reorder-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
