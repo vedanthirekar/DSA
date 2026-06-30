@@ -35,6 +35,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0746-min-cost-climbing-stairs](https://github.com/vedanthirekar/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/vedanthirekar/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vedanthirekar/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0994-rotting-oranges](https://github.com/vedanthirekar/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/vedanthirekar/DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1929-concatenation-of-array](https://github.com/vedanthirekar/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 ## Dynamic Programming
@@ -75,6 +76,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0322-coin-change](https://github.com/vedanthirekar/DSA/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vedanthirekar/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/vedanthirekar/DSA/tree/main/0695-max-area-of-island/) | Medium |
+| [0994-rotting-oranges](https://github.com/vedanthirekar/DSA/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +94,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0200-number-of-islands](https://github.com/vedanthirekar/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vedanthirekar/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/vedanthirekar/DSA/tree/main/0695-max-area-of-island/) | Medium |
+| [0994-rotting-oranges](https://github.com/vedanthirekar/DSA/tree/main/0994-rotting-oranges/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
