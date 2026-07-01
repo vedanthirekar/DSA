@@ -232,6 +232,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vedanthirekar/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0191-number-of-1-bits](https://github.com/vedanthirekar/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanthirekar/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vedanthirekar/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Sorting
@@ -283,6 +284,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0078-subsets](https://github.com/vedanthirekar/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/vedanthirekar/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/vedanthirekar/DSA/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/vedanthirekar/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
