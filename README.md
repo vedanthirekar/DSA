@@ -65,6 +65,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0543-diameter-of-binary-tree](https://github.com/vedanthirekar/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/vedanthirekar/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/vedanthirekar/DSA/tree/main/0695-max-area-of-island/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/vedanthirekar/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0417-pacific-atlantic-water-flow](https://github.com/vedanthirekar/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/vedanthirekar/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/vedanthirekar/DSA/tree/main/0994-rotting-oranges/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/vedanthirekar/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +112,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0543-diameter-of-binary-tree](https://github.com/vedanthirekar/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/vedanthirekar/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vedanthirekar/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/vedanthirekar/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +135,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0543-diameter-of-binary-tree](https://github.com/vedanthirekar/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/vedanthirekar/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vedanthirekar/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/vedanthirekar/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
