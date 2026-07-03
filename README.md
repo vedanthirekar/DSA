@@ -117,6 +117,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vedanthirekar/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0076-minimum-window-substring](https://github.com/vedanthirekar/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/vedanthirekar/DSA/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/vedanthirekar/DSA/tree/main/0091-decode-ways/) | Medium |
@@ -153,6 +154,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vedanthirekar/DSA/tree/main/0001-two-sum/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vedanthirekar/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/vedanthirekar/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0076-minimum-window-substring](https://github.com/vedanthirekar/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0133-clone-graph](https://github.com/vedanthirekar/DSA/tree/main/0133-clone-graph/) | Medium |
@@ -263,6 +265,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vedanthirekar/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/vedanthirekar/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/vedanthirekar/DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/vedanthirekar/DSA/tree/main/0046-permutations/) | Medium |
