@@ -18,6 +18,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0079-word-search](https://github.com/vedanthirekar/DSA/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/vedanthirekar/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/vedanthirekar/DSA/tree/main/0130-surrounded-regions/) | Medium |
+| [0134-gas-station](https://github.com/vedanthirekar/DSA/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/vedanthirekar/DSA/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/vedanthirekar/DSA/tree/main/0139-word-break/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedanthirekar/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -99,6 +100,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/vedanthirekar/DSA/tree/main/0055-jump-game/) | Medium |
+| [0134-gas-station](https://github.com/vedanthirekar/DSA/tree/main/0134-gas-station/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
