@@ -172,6 +172,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0155-min-stack](https://github.com/vedanthirekar/DSA/tree/main/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/vedanthirekar/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vedanthirekar/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/vedanthirekar/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vedanthirekar/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -210,6 +211,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/vedanthirekar/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/vedanthirekar/DSA/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/vedanthirekar/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,4 +311,8 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/vedanthirekar/DSA/tree/main/0146-lru-cache/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/vedanthirekar/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
