@@ -1,22 +1,31 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        longest = ""
         n = len(s)
+        res = ""
+        longest = 0
         for i in range(n):
-            left = i-1
-            right = i+1
-            while left>=0 and right<n and s[left] == s[right]:
-                left -=1
-                right +=1
-            if right -left -1>len(longest):
-                longest = s[left+1:right]
+            curr_longest = 1
+            l = i-1
+            r = i+1
+            while l>=0 and r<n and s[l] == s[r]:
+                curr_longest += 2 
+                l-=1 
+                r+=1
+            if curr_longest> longest:
+                res = s[l+1:r]
+                longest = curr_longest
 
-            left = i
-            right = i+1
-            while left>=0 and right<n and s[left] == s[right]:
-                left -=1
-                right +=1
-            if right -left -1>len(longest):
-                longest = s[left+1:right]
+        for i in range(n-1):
+            if s[i] == s[i+1]:
+                curr_longest = 2
+                l = i-1
+                r = i+2
+                while l>=0 and r<n and s[l] == s[r]:
+                    curr_longest += 2 
+                    l-=1 
+                    r+=1
+            if curr_longest> longest:
+                res = s[l+1:r]
+                longest = curr_longest
 
-        return longest
+        return res
