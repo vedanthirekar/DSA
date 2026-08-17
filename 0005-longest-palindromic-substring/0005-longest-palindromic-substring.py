@@ -24,8 +24,8 @@ class Solution:
                     curr_longest += 2 
                     l-=1 
                     r+=1
-            if curr_longest> longest:
-                res = s[l+1:r]
-                longest = curr_longest
+                if curr_longest> longest:
+                    res = s[l+1:r]
+                    longest = curr_longest
 
         return res
