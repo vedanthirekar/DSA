@@ -1,17 +1,13 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        
-        pairs = {")":"(", "}":"{", "]":"["}
-
+        mapping = {")":"(", "]": "[", "}":"{"}
         stk = []
-        # stk.append(s[0])
-        n = len(s)
-        for i in s:
-            if i in pairs.values():
-                stk.append(i)
-            elif stk and pairs[i] == stk[-1]:
-                stk.pop()
+        for bracket in s:
+            if bracket in mapping and stk:
+                b = stk.pop()
+                if mapping[bracket] != b:
+                    return False
             else:
-                return False
+                stk.append(bracket)
         
-        return not stk
+        return True if not stk else False
