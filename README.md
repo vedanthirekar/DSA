@@ -215,6 +215,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0138-copy-list-with-random-pointer](https://github.com/vedanthirekar/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0143-reorder-list](https://github.com/vedanthirekar/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/vedanthirekar/DSA/tree/main/0146-lru-cache/) | Medium |
+| [0206-reverse-linked-list](https://github.com/vedanthirekar/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +239,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/vedanthirekar/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0143-reorder-list](https://github.com/vedanthirekar/DSA/tree/main/0143-reorder-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/vedanthirekar/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
