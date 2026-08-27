@@ -1,29 +1,24 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        """we iterate through all of the elements in the grid. If we find a 1 i.e. island,
-        we go on checking other surrounding elements using dfs and simultaneously mark them 0 so that these do
-        not get visited again. 
-        """
-        n = len(grid)
-        m = len(grid[0])
-
-        def dfs(i,j):
-            if i>=n or i<0 or j<0 or j>=m:
-                return 
-            if grid[i][j] =="0":
+        
+        def dfs(r, c):
+            if r<0 or c<0 or r>=rows or c>=cols or grid[r][c]=="0":
                 return
+            
+            grid[r][c] = "0"
+            dfs(r+1,c)
+            dfs(r-1,c)
+            dfs(r,c+1)
+            dfs(r,c-1)
+        
+        rows = len(grid)
+        cols = len(grid[0])
+        count = 0
 
-            grid[i][j] = "0"
-            dfs(i,j+1)
-            dfs(i,j-1)
-            dfs(i+1,j)
-            dfs(i-1,j)
-            return
+        for r in range(rows):
+            for c in range(cols):
+                if grid[r][c] == "1":
+                    count+=1
+                    dfs(r,c)
 
-        counter = 0
-        for i in range (n):
-            for j in range (m):
-                if grid[i][j] == "1":
-                    counter +=1
-                    dfs(i,j)
-        return counter
+        return count
