@@ -32,6 +32,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanthirekar/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/vedanthirekar/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0322-coin-change](https://github.com/vedanthirekar/DSA/tree/main/0322-coin-change/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/vedanthirekar/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/vedanthirekar/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vedanthirekar/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0494-target-sum](https://github.com/vedanthirekar/DSA/tree/main/0494-target-sum/) | Medium |
@@ -177,6 +178,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0146-lru-cache](https://github.com/vedanthirekar/DSA/tree/main/0146-lru-cache/) | Medium |
 | [0202-happy-number](https://github.com/vedanthirekar/DSA/tree/main/0202-happy-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/vedanthirekar/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/vedanthirekar/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/vedanthirekar/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/vedanthirekar/DSA/tree/main/0567-permutation-in-string/) | Medium |
 ## Design
@@ -271,18 +273,21 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0023-merge-k-sorted-lists](https://github.com/vedanthirekar/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0191-number-of-1-bits](https://github.com/vedanthirekar/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanthirekar/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/vedanthirekar/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vedanthirekar/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/vedanthirekar/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanthirekar/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/vedanthirekar/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vedanthirekar/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vedanthirekar/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanthirekar/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/vedanthirekar/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vedanthirekar/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/vedanthirekar/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/vedanthirekar/DSA/tree/main/1046-last-stone-weight/) | Easy |
@@ -290,6 +295,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanthirekar/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/vedanthirekar/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vedanthirekar/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -349,4 +355,12 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/vedanthirekar/DSA/tree/main/0056-merge-intervals/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vedanthirekar/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vedanthirekar/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
