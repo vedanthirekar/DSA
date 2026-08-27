@@ -15,6 +15,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0046-permutations](https://github.com/vedanthirekar/DSA/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/vedanthirekar/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/vedanthirekar/DSA/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/vedanthirekar/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/vedanthirekar/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/vedanthirekar/DSA/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/vedanthirekar/DSA/tree/main/0079-word-search/) | Medium |
@@ -274,6 +275,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/vedanthirekar/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanthirekar/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vedanthirekar/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
@@ -343,4 +345,8 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vedanthirekar/DSA/tree/main/0020-valid-parentheses/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/vedanthirekar/DSA/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
