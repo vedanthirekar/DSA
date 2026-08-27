@@ -10,10 +10,10 @@ class Solution:
             while l< r and not s[r].isalnum():
                 r-=1
 
-            print("left", l, s[l])
-            print("right", r, s[r])
+            # print("left", l, s[l])
+            # print("right", r, s[r])
             if s[r].lower() != s[l].lower():
-                print ("False")
+                # print ("False")
                 return False
 
             l+=1
