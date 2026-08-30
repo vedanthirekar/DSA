@@ -14,6 +14,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0040-combination-sum-ii](https://github.com/vedanthirekar/DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/vedanthirekar/DSA/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/vedanthirekar/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/vedanthirekar/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/vedanthirekar/DSA/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/vedanthirekar/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/vedanthirekar/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -132,6 +133,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0014-longest-common-prefix](https://github.com/vedanthirekar/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vedanthirekar/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/vedanthirekar/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0049-group-anagrams](https://github.com/vedanthirekar/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/vedanthirekar/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/vedanthirekar/DSA/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/vedanthirekar/DSA/tree/main/0091-decode-ways/) | Medium |
@@ -173,6 +175,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0003-longest-substring-without-repeating-characters](https://github.com/vedanthirekar/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vedanthirekar/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/vedanthirekar/DSA/tree/main/0036-valid-sudoku/) | Medium |
+| [0049-group-anagrams](https://github.com/vedanthirekar/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/vedanthirekar/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0133-clone-graph](https://github.com/vedanthirekar/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/vedanthirekar/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -283,6 +286,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/vedanthirekar/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/vedanthirekar/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanthirekar/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vedanthirekar/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
