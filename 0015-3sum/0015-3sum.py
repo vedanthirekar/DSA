@@ -1,31 +1,38 @@
 class Solution:
     def threeSum(self, nums: list[int]) -> list[list[int]]:
-        """sort the array, the run a for loop for 1 variable and other 2 can be 
-        found out using the 2pointer method"""
-
+        
         nums.sort()
         n = len(nums)
-        summ= 0
         res = []
-        for i in range(n):
-            if i>0 and nums[i] == nums[i-1]:
-                continue
-            l = i+1
-            r = n-1
-            while l<r:
-                summ = nums[i] + nums[l] + nums[r]
+        for i in range(n-2):
 
-                if summ == 0:
-                    res.append([nums[i], nums[l], nums[r]])
-                    l+=1
-                    r-=1
-                    while l < r and nums[l] == nums[l-1]:  # skip duplicate lefts
-                        l += 1
-                    while l < r and nums[r] == nums[r+1]:  # skip duplicate rights
-                        r -= 1
+            if i>0 and nums[i] == nums[i-1]:
+                # i+=1
+                continue
+
+            j = i+1
+            k = n-1
+
+            while j<k:
+
+                summ =  nums[i] + nums[j] + nums[k]
+
+                if summ== 0:
+                    res.append([nums[i],nums[j],nums[k]])
+                
+                    j +=1
+                    k -=1
+                    while j<k and nums[j]==nums[j-1]:
+                        j+=1
+                    while k>j and nums[k]==nums[k+1]:
+                        k-=1
+
                 elif summ<0:
-                    l+=1
+                    j+=1
+
                 else:
-                    r-=1
+                    k-=1
 
         return res
+
+                
