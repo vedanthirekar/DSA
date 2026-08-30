@@ -8,6 +8,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vedanthirekar/DSA/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/vedanthirekar/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/vedanthirekar/DSA/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/vedanthirekar/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/vedanthirekar/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/vedanthirekar/DSA/tree/main/0039-combination-sum/) | Medium |
@@ -226,6 +227,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vedanthirekar/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0015-3sum](https://github.com/vedanthirekar/DSA/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vedanthirekar/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/vedanthirekar/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/vedanthirekar/DSA/tree/main/0143-reorder-list/) | Medium |
@@ -286,6 +288,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/vedanthirekar/DSA/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/vedanthirekar/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/vedanthirekar/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanthirekar/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
