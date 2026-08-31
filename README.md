@@ -382,4 +382,8 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/vedanthirekar/DSA/tree/main/0739-daily-temperatures/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vedanthirekar/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
