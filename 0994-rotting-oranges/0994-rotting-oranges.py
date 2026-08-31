@@ -24,7 +24,7 @@ class Solution:
                 elif grid[r][c] == 1:
                     fresh += 1
 
-        while queue and fresh> 0:
+        while queue and fresh>0:
             l = len(queue)
             count +=1
             for i in range(l):
