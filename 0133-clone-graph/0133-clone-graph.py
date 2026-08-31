@@ -10,23 +10,24 @@ from typing import Optional
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
         
-        oldtonew = {}
-        def dfs(node):
-            if not node:
-                return
+        clones = {}
 
-            if node in oldtonew:
-                return oldtonew[node]
-            
-            new = Node(val = node.val)
-            oldtonew[node] = new
-            for nei in node.neighbors:
-                neighbor = dfs(nei)
-                if neighbor not in new.neighbors:
-                    new.neighbors.append(neighbor)
-            
-            return new
+        if not node:
+            return None
+        def clone(node):
 
-        res = dfs(node)
-        # print(node)
-        return res
+            if node in clones:
+                return clones[node]
+
+            clone_node = Node()
+            clone_node.val = node.val
+            
+            clones[node] = clone_node
+
+            for neighbor_node in node.neighbors:
+                # if neighbor_node not in seen:
+                    clone_node.neighbors.append(clone(neighbor_node))
+
+            return clone_node
+
+        return clone(node)
