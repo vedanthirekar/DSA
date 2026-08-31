@@ -13,14 +13,20 @@ class Solution:
             if not root: 
                 return True
 
-            if not root.left and not  root.right:
-                return True 
+            # if not root.left and not  root.right:
+            #     return True 
 
-            if root.left and not left_limit<root.left.val<root.val:
+            # if root.left and not left_limit<root.left.val<root.val:
+            #     return False
+
+            # if root.right and not root.val<root.right.val <right_limit:
+            #     return False
+
+
+            # instead just compare the root
+            if not left_limit < root.val < right_limit:
                 return False
 
-            if root.right and not root.val<root.right.val <right_limit:
-                return False
 
             return isBST(root.left, left_limit, root.val) and isBST(root.right, root.val, right_limit)
 
