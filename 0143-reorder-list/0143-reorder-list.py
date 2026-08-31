@@ -6,10 +6,9 @@
 class Solution:
     def reorderList(self, head: Optional[ListNode]) -> None:
         """
-        We first find the mid of the list, then reverse the 2nd half.
-        Then we merge them together. 
+        Do not return anything, modify head in-place instead.
         """
-        
+        #breaking into half
         slow = head
         fast = head
 
@@ -17,35 +16,28 @@ class Solution:
             slow = slow.next
             fast = fast.next.next
 
-        pivot = slow.next
+        break_pt = slow.next
         slow.next = None
 
-        curr = pivot
+        #reverse 2nd half
+        curr = break_pt
         prev = None
-
         while curr:
             temp = curr.next
             curr.next = prev
             prev = curr
             curr = temp
 
-        l2_head = prev
-
+        #alternate adding
         curr1 = head
-        curr2 = l2_head
+        curr2 = prev
 
-        while curr2:
+        while curr1 and curr2:
             temp1 = curr1.next
-            temp2 = curr2.next
             curr1.next = curr2
+            temp2 = curr2.next
+            curr2.next = temp1
+
+
             curr1 = temp1
-            curr2.next = curr1
             curr2 = temp2
-
-        return curr1
-
-
-
-
-
-        
