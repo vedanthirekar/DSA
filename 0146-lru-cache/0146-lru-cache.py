@@ -1,68 +1,69 @@
 class LRUCache:
 
     def __init__(self, capacity: int):
-        self.start = Node()
-        self.end = Node()
-        self.start.nextt = self.end
-        self.end.prev = self.start
-        self.dict1 = {}
-        self.cap = 0
-        self.capacity = capacity
+        self.max_capacity = capacity
+        self.capacity = 0
+        self.head = ListNode()
+        self.tail = ListNode()
+        self.head.next = self.tail
+        self.tail.prev = self.head
+        self.keymap = {}
 
     def get(self, key: int) -> int:
-        if key in self.dict1:
-            node = self.dict1[key]
+        if key in self.keymap:
+            node = self.keymap[key]
+            val = node.val
             self.remove(node)
             self.insert(node)
-            return node.val
-
+            return val
         else:
             return -1
+        
 
     def put(self, key: int, value: int) -> None:
-        if key in self.dict1:
-            node = self.dict1[key]
+        if key in self.keymap:
+            node = self.keymap[key]
+            node.key = key
             node.val = value
             self.remove(node)
             self.insert(node)
-            # dict1[key] = node
 
         else:
-            node = Node()
-            node.val = value
-            node.key = key
+            node = ListNode(val = value, key = key)
+            self.keymap[key] = node
             self.insert(node)
-            self.cap += 1
-            self.dict1[key] = node
+            self.capacity +=1
 
-            if self.cap>self.capacity:
-                node = self.end.prev
+            if self.capacity>self.max_capacity:
+                node = self.tail.prev
+                key = node.key
                 self.remove(node)
-                del self.dict1[node.key]
-                self.cap-=1
+                self.capacity -=1
+                del self.keymap[key]
 
+    def insert(self, node):
+        temp = self.head.next
+        self.head.next = node
+        node.next = temp
+        node.prev = self.head
+        temp.prev = node
 
     def remove(self, node):
         prev = node.prev
-        nextt = node.nextt
-        prev.nextt = nextt
-        nextt.prev = prev
+        next = node.next
+        prev.next = next
+        next.prev = prev
 
-    def insert(self, node):
-        node.prev = self.start
-        node.nextt = self.start.nextt
-        node.nextt.prev = node
-        self.start.nextt = node
-        
+
+
             
-class Node:
-    def __init__(self, key = -1, val = -1, nextt = None , prev = None):
+
+class ListNode():
+    def __init__(self, key= 0, val = 0, next = None, prev = None):
         self.key = key
         self.val = val
-        self.nextt = nextt
+        self.next = next
         self.prev = prev
-
-
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
