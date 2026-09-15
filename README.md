@@ -76,6 +76,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0133-clone-graph](https://github.com/vedanthirekar/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/vedanthirekar/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/vedanthirekar/DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/vedanthirekar/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vedanthirekar/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vedanthirekar/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vedanthirekar/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -92,6 +93,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0133-clone-graph](https://github.com/vedanthirekar/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/vedanthirekar/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/vedanthirekar/DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/vedanthirekar/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/vedanthirekar/DSA/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/vedanthirekar/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/vedanthirekar/DSA/tree/main/0695-max-area-of-island/) | Medium |
@@ -270,6 +272,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/vedanthirekar/DSA/tree/main/0133-clone-graph/) | Medium |
+| [0207-course-schedule](https://github.com/vedanthirekar/DSA/tree/main/0207-course-schedule/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,4 +395,12 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/vedanthirekar/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/vedanthirekar/DSA/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/vedanthirekar/DSA/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
