@@ -122,6 +122,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | ------- | ------- |
 | [0055-jump-game](https://github.com/vedanthirekar/DSA/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/vedanthirekar/DSA/tree/main/0134-gas-station/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vedanthirekar/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +154,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0424-longest-repeating-character-replacement](https://github.com/vedanthirekar/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/vedanthirekar/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/vedanthirekar/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vedanthirekar/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +290,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0150-evaluate-reverse-polish-notation](https://github.com/vedanthirekar/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/vedanthirekar/DSA/tree/main/0202-happy-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/vedanthirekar/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vedanthirekar/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
