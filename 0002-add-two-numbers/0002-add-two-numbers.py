@@ -22,7 +22,7 @@ class Solution:
                 summ = summ%10
                 carry = 1
             else:
-                summ = summ
+                # summ = summ
                 carry = 0
             
             node.next = ListNode(val = summ)
