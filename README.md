@@ -286,6 +286,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/vedanthirekar/DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/vedanthirekar/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/vedanthirekar/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vedanthirekar/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/vedanthirekar/DSA/tree/main/0202-happy-number/) | Easy |
