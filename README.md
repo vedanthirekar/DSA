@@ -7,6 +7,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vedanthirekar/DSA/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/vedanthirekar/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/vedanthirekar/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/vedanthirekar/DSA/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/vedanthirekar/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -120,6 +121,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/vedanthirekar/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/vedanthirekar/DSA/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/vedanthirekar/DSA/tree/main/0134-gas-station/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vedanthirekar/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -238,6 +240,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vedanthirekar/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/vedanthirekar/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/vedanthirekar/DSA/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vedanthirekar/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/vedanthirekar/DSA/tree/main/0125-valid-palindrome/) | Easy |
