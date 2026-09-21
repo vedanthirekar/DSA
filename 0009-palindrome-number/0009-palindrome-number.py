@@ -3,13 +3,17 @@ class Solution:
         
         if x<0:
             return False
+        if x!=0 and x%10==0:
+            return False
         rev = 0
-        num = x
+        # num = x
+        # t = len(x)
+        # print(t)
 
-        while num:
-            last_digit = num%10
+        while rev<x:
+            last_digit = x%10
             rev = (rev*10)+last_digit
 
-            num = num//10
+            x = x//10
 
-        return rev == x
+        return rev == x or x == rev//10
