@@ -52,6 +52,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0994-rotting-oranges](https://github.com/vedanthirekar/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vedanthirekar/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/vedanthirekar/DSA/tree/main/1046-last-stone-weight/) | Easy |
+| [1472-design-browser-history](https://github.com/vedanthirekar/DSA/tree/main/1472-design-browser-history/) | Medium |
 | [1929-concatenation-of-array](https://github.com/vedanthirekar/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -211,6 +212,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0211-design-add-and-search-words-data-structure](https://github.com/vedanthirekar/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/vedanthirekar/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vedanthirekar/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1472-design-browser-history](https://github.com/vedanthirekar/DSA/tree/main/1472-design-browser-history/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +241,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0143-reorder-list](https://github.com/vedanthirekar/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/vedanthirekar/DSA/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/vedanthirekar/DSA/tree/main/0206-reverse-linked-list/) | Easy |
+| [1472-design-browser-history](https://github.com/vedanthirekar/DSA/tree/main/1472-design-browser-history/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +263,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0155-min-stack](https://github.com/vedanthirekar/DSA/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/vedanthirekar/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0739-daily-temperatures](https://github.com/vedanthirekar/DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [1472-design-browser-history](https://github.com/vedanthirekar/DSA/tree/main/1472-design-browser-history/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -352,6 +356,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vedanthirekar/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1472-design-browser-history](https://github.com/vedanthirekar/DSA/tree/main/1472-design-browser-history/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -375,6 +380,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/vedanthirekar/DSA/tree/main/0146-lru-cache/) | Medium |
+| [1472-design-browser-history](https://github.com/vedanthirekar/DSA/tree/main/1472-design-browser-history/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
