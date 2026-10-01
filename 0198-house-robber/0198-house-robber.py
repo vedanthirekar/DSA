@@ -1,15 +1,29 @@
 class Solution:
     def rob(self, nums: list[int]) -> int:
+        # n = len(nums)
+        # dp = [-1]*(n+1)
+
+        # if n<2:
+        #     return nums[0]
+        
+        # dp[0] = nums[0]
+        # dp[1] = max(nums[0], nums[1])
+
+        # for i in range(2,n):
+        #     dp[i] = max(dp[i-2]+nums[i], dp[i-1])
+
+        # return dp[n-1]
+
         n = len(nums)
-        dp = [-1]*(n+1)
 
         if n<2:
             return nums[0]
-        
-        dp[0] = nums[0]
-        dp[1] = max(nums[0], nums[1])
+        rob1 = nums[0]
+        rob2 = max(nums[0],nums[1])
 
         for i in range(2,n):
-            dp[i] = max(dp[i-2]+nums[i], dp[i-1])
+            temp = rob2
+            rob2 = max(rob1+nums[i], rob2)
+            rob1 = temp
 
-        return dp[n-1]
+        return rob2
