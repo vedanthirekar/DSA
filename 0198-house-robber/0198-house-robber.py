@@ -1,59 +1,15 @@
 class Solution:
-    def rob(self, nums: List[int]) -> int:
-        
-        
-        #dp optimized space
+    def rob(self, nums: list[int]) -> int:
         n = len(nums)
-        
-        if n == 1:
+        dp = [-1]*(n+1)
+
+        if n<2:
             return nums[0]
-        prev = nums[0]
-        curr = max(prev, nums[1])
+        
+        dp[0] = nums[0]
+        dp[1] = max(nums[0], nums[1])
 
-        for i in range(2, n):
-            temp = max(nums[i]+prev, curr)
-            prev = curr
-            curr = temp
+        for i in range(2,n):
+            dp[i] = max(dp[i-2]+nums[i], dp[i-1])
 
-        return curr
-
-
-        # #dp tabulation
-        # n = len(nums)
-        # dp = [0]*(n+2)
-
-        # # dp[]
-        # for i in range(n-1, -1, -1):
-        #     print(i)
-        #     dp[i] = max(nums[i]+dp[i+2], dp[i+1])
-
-        # return dp[0]
-
-
-        # #dp cache 
-        # n = len(nums)
-        # memo = {}
-        # def dfs(i):
-        #     if i >= n:
-        #         return 0
-
-        #     if i in memo:
-        #         return memo[i]
-            
-        #     memo[i] = max(nums[i] + dfs(i+2), dfs(i+1))
-        #     return memo[i]
-
-        # return dfs(0)
-
-
-
-        # # recursive 
-        # n = len(nums)
-        # def dfs(i):
-        #     if i >= n:
-        #         return 0
-            
-        #     maxx = max(nums[i] + dfs(i+2), dfs(i+1))
-        #     return maxx
-
-        # return dfs(0)
+        return dp[n-1]
