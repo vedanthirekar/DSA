@@ -38,6 +38,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanthirekar/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/vedanthirekar/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/vedanthirekar/DSA/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0283-move-zeroes](https://github.com/vedanthirekar/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/vedanthirekar/DSA/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vedanthirekar/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/vedanthirekar/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -258,6 +259,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedanthirekar/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/vedanthirekar/DSA/tree/main/0202-happy-number/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/vedanthirekar/DSA/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0283-move-zeroes](https://github.com/vedanthirekar/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0567-permutation-in-string](https://github.com/vedanthirekar/DSA/tree/main/0567-permutation-in-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
