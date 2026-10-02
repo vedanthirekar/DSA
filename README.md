@@ -37,6 +37,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0213-house-robber-ii](https://github.com/vedanthirekar/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanthirekar/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/vedanthirekar/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0253-meeting-rooms-ii](https://github.com/vedanthirekar/DSA/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0322-coin-change](https://github.com/vedanthirekar/DSA/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vedanthirekar/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/vedanthirekar/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -127,6 +128,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0011-container-with-most-water](https://github.com/vedanthirekar/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/vedanthirekar/DSA/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/vedanthirekar/DSA/tree/main/0134-gas-station/) | Medium |
+| [0253-meeting-rooms-ii](https://github.com/vedanthirekar/DSA/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vedanthirekar/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -184,6 +186,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/vedanthirekar/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0253-meeting-rooms-ii](https://github.com/vedanthirekar/DSA/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/vedanthirekar/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -254,6 +257,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0143-reorder-list](https://github.com/vedanthirekar/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedanthirekar/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/vedanthirekar/DSA/tree/main/0202-happy-number/) | Easy |
+| [0253-meeting-rooms-ii](https://github.com/vedanthirekar/DSA/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0567-permutation-in-string](https://github.com/vedanthirekar/DSA/tree/main/0567-permutation-in-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -321,6 +325,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0049-group-anagrams](https://github.com/vedanthirekar/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/vedanthirekar/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanthirekar/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0253-meeting-rooms-ii](https://github.com/vedanthirekar/DSA/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vedanthirekar/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vedanthirekar/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
@@ -328,6 +333,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vedanthirekar/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanthirekar/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0253-meeting-rooms-ii](https://github.com/vedanthirekar/DSA/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vedanthirekar/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vedanthirekar/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/vedanthirekar/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
