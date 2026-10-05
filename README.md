@@ -12,6 +12,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0014-longest-common-prefix](https://github.com/vedanthirekar/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/vedanthirekar/DSA/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/vedanthirekar/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vedanthirekar/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/vedanthirekar/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/vedanthirekar/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/vedanthirekar/DSA/tree/main/0040-combination-sum-ii/) | Medium |
@@ -230,6 +231,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vedanthirekar/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/vedanthirekar/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vedanthirekar/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/vedanthirekar/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedanthirekar/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/vedanthirekar/DSA/tree/main/0704-binary-search/) | Easy |
