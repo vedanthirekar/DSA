@@ -57,6 +57,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vedanthirekar/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/vedanthirekar/DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1472-design-browser-history](https://github.com/vedanthirekar/DSA/tree/main/1472-design-browser-history/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vedanthirekar/DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1929-concatenation-of-array](https://github.com/vedanthirekar/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0416-partition-equal-subset-sum](https://github.com/vedanthirekar/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/vedanthirekar/DSA/tree/main/0494-target-sum/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/vedanthirekar/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vedanthirekar/DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -304,6 +306,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0076-minimum-window-substring](https://github.com/vedanthirekar/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/vedanthirekar/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/vedanthirekar/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vedanthirekar/DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
