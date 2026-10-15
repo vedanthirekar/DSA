@@ -164,6 +164,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0208-implement-trie-prefix-tree](https://github.com/vedanthirekar/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vedanthirekar/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/vedanthirekar/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0443-string-compression](https://github.com/vedanthirekar/DSA/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/vedanthirekar/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/vedanthirekar/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/vedanthirekar/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -268,6 +269,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0202-happy-number](https://github.com/vedanthirekar/DSA/tree/main/0202-happy-number/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/vedanthirekar/DSA/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/vedanthirekar/DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0443-string-compression](https://github.com/vedanthirekar/DSA/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/vedanthirekar/DSA/tree/main/0567-permutation-in-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
