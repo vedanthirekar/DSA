@@ -18,15 +18,10 @@ class Solution:
                 path.pop()
                 return
                 
-            if root.right:
-                path.append(root.val)
-                dfs(root.right, curr_sum+root.val,path)
-                path.pop()
-
-            if root.left:
-                path.append(root.val)
-                dfs(root.left, curr_sum + root.val, path)
-                path.pop()
+            path.append(root.val)
+            dfs(root.right, curr_sum+root.val,path)
+            dfs(root.left, curr_sum + root.val, path)
+            path.pop()
 
 
         dfs(root, 0, [])
