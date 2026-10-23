@@ -170,6 +170,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0451-sort-characters-by-frequency](https://github.com/vedanthirekar/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/vedanthirekar/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/vedanthirekar/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/vedanthirekar/DSA/tree/main/0981-time-based-key-value-store/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vedanthirekar/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -218,6 +219,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0451-sort-characters-by-frequency](https://github.com/vedanthirekar/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/vedanthirekar/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/vedanthirekar/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/vedanthirekar/DSA/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +229,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0211-design-add-and-search-words-data-structure](https://github.com/vedanthirekar/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/vedanthirekar/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vedanthirekar/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/vedanthirekar/DSA/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1472-design-browser-history](https://github.com/vedanthirekar/DSA/tree/main/1472-design-browser-history/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -245,6 +248,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedanthirekar/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/vedanthirekar/DSA/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/vedanthirekar/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/vedanthirekar/DSA/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vedanthirekar/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
