@@ -59,6 +59,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [1472-design-browser-history](https://github.com/vedanthirekar/DSA/tree/main/1472-design-browser-history/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vedanthirekar/DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1929-concatenation-of-array](https://github.com/vedanthirekar/DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vedanthirekar/DSA/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,6 +330,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0202-happy-number](https://github.com/vedanthirekar/DSA/tree/main/0202-happy-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/vedanthirekar/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vedanthirekar/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vedanthirekar/DSA/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
