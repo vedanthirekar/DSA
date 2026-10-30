@@ -60,6 +60,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vedanthirekar/DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1929-concatenation-of-array](https://github.com/vedanthirekar/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vedanthirekar/DSA/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/vedanthirekar/DSA/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +195,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/vedanthirekar/DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/vedanthirekar/DSA/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +223,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0560-subarray-sum-equals-k](https://github.com/vedanthirekar/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/vedanthirekar/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/vedanthirekar/DSA/tree/main/0981-time-based-key-value-store/) | Medium |
+| [3842-toggle-light-bulbs](https://github.com/vedanthirekar/DSA/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -351,6 +354,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0347-top-k-frequent-elements](https://github.com/vedanthirekar/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/vedanthirekar/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vedanthirekar/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [3842-toggle-light-bulbs](https://github.com/vedanthirekar/DSA/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
