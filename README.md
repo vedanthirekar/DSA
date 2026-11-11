@@ -141,6 +141,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0134-gas-station](https://github.com/vedanthirekar/DSA/tree/main/0134-gas-station/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/vedanthirekar/DSA/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vedanthirekar/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/vedanthirekar/DSA/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -338,6 +339,7 @@ I've uploaded my recent solutions and keep adding more as I work through LeetCod
 | [0973-k-closest-points-to-origin](https://github.com/vedanthirekar/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vedanthirekar/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vedanthirekar/DSA/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/vedanthirekar/DSA/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
